@@ -71,7 +71,6 @@
   <a href="https://platformio.org/"><img src="https://raw.githubusercontent.com/platformio/platformio-home/master/images/platformio-logo.png" width="40" height="40" alt="PlatformIO"/></a>
 </p>
 
-
 ---
 
 ### 📊 GitHub Metrics (Auto-generated)
