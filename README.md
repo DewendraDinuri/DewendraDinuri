@@ -47,7 +47,7 @@ Hi, I'm **Dinuri Dewendra** — a passionate Software Engineering student at the
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DewendraDinuri&label=Profile%20Views&color=6&icon=2&pretty=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewendraDinuri&layout=compact" />
 </p>
 
 <!-- Built with ❤️ by Dinuri · Powered by GitHub Metrics -->
