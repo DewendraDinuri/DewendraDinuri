@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi there! I'm Dinuri Dewendra, a passionate Software Engineering student at the University of Westminster.  
 💡 I love building impactful, user-friendly applications and contributing to open-source.  
 📚 Currently learning: Advanced backend development & DevOps  
