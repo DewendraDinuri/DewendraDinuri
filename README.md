@@ -1,6 +1,6 @@
 <!-- GitHub metrics banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DewendraDinuri/DewendraDinuri/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/DewendraDinuri/DewendraDinuri/main/github-metrics.svg" width="100%" />
 </p>
 
 ---
