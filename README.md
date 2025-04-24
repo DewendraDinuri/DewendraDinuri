@@ -1,6 +1,6 @@
 <!-- GitHub metrics banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DewendraDinuri/DewendraDinuri/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DewendraDinuri/DewendraDinuri/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
 ---
@@ -56,7 +56,7 @@
 **Mobile/IoT:**  
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
+![Platform.io](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ---
 
 ## 📊 GitHub Stats:
