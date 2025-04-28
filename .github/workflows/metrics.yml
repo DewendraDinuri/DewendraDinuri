@@ -1,15 +1,15 @@
-name: Metrics
-on:
-  schedule: [{cron: "0 * * * *"}]  # every hour
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics.svg
-          user: DewendraDinuri
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Colombo
+#name: Metrics
+#on:
+  #schedule: [{cron: "0 * * * *"}]  # every hour
+  #workflow_dispatch:
+#jobs:
+  #github-metrics:
+    #runs-on: ubuntu-latest
+    #steps:
+      #- uses: lowlighter/metrics@latest
+       # with:
+          #filename: github-metrics.svg
+          #user: DewendraDinuri
+          #template: classic
+          #base: header, activity, community, repositories, metadata
+         # config_timezone: Asia/Colombo
